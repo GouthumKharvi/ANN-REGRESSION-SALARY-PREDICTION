@@ -1,2 +1,1 @@
-# ANN-REGRESSION-SALARY-PREDICTION
-Developed an ANN Regression model to predict customer estimated salary using TensorFlow/Keras with Streamlit deployment and feature preprocessing pipelines.
+Developed an ANN Regression model for predicting customer estimated salary using TensorFlow, Keras, Scikit-learn, and Streamlit. Implemented data preprocessing, feature scaling, categorical encoding, model training, evaluation, and deployment through an interactive Streamlit web application.
